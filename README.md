@@ -8,7 +8,7 @@ I'm driven by the challenge of uncovering insights from complex datasets and bui
 <tr>
 <td align="center" width="96">
 <a href="#-python">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+<img src="#F0503" alt="python" />
 </a>
 </td>
 <td align="center" width="96">
@@ -29,4 +29,5 @@ I'm driven by the challenge of uncovering insights from complex datasets and bui
 </tr>
 <!-- ... aquí irían las otras filas, también sin indentación ... -->
 </table>
+
 
