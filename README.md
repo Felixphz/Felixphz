@@ -1,4 +1,4 @@
-<h2 align="left"> 👋 Hello, I'm juan felipe isazac</h2>
+<h2 align="left"> 👋 Hello, I'm juan felipe isaza</h2>
 
 I am a Systems Engineering student passionate about transforming data into meaningful solutions through Machine Learning and Data Science. I thrive on the challenge of uncovering hidden patterns within complex datasets and developing intelligent systems that address real-world problems. My academic journey has equipped me with a strong foundation in programming, algorithms, and analytical thinking, while my hands-on projects have strengthened my skills in Python, data visualization, and predictive modeling. I am committed to continuous learning and eager to contribute my knowledge and creativity to innovative, data-driven solutions.
 
@@ -75,6 +75,7 @@ This is a selection of projects that showcase my learning journey across differe
 I’m open to discussing new opportunities, collaborations, or sharing insights on data science and engineering. Feel free to reach out. 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tu-usuario/)
+
 
 
 
