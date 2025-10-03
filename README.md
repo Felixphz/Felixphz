@@ -36,7 +36,7 @@ I am a Systems Engineering student passionate about transforming data into meani
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+ 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </p>
 
@@ -46,21 +46,15 @@ I am a Systems Engineering student passionate about transforming data into meani
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
   </a>
 </p>
 
-<h3 align="center"> ☁ Cloud Platforms </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws&theme=light" />
-  </a>
-</p>
 
 <h3 align="center"> 🔧 Herramientas </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" />
   </a>
 </p>
 <h2 align="left">🚀 Featured Projects</h2>
@@ -75,6 +69,7 @@ This is a selection of projects that showcase my learning journey across differe
 I’m open to discussing new opportunities, collaborations, or sharing insights on data science and engineering. Feel free to reach out. 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tu-usuario/)
+
 
 
 
